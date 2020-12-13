@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "607237988868",
+    "firebase_url": "https://messagingapp-c52c2.firebaseio.com",
+    "project_id": "messagingapp-c52c2",
+    "storage_bucket": "messagingapp-c52c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607237988868:android:6f5955b43e04f7bc8a4b51",
+        "android_client_info": {
+          "package_name": "com.example.nhis_chat_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607237988868-2806onhm7jis5rmc37hvpvfhinvtrool.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWljpiuzxNu5VLQ54B72p41BhA_ugjHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607237988868-2806onhm7jis5rmc37hvpvfhinvtrool.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607237988868:android:cbb1b966db5e08c48a4b51",
+        "android_client_info": {
+          "package_name": "de.janoodle.circlesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607237988868-2806onhm7jis5rmc37hvpvfhinvtrool.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWljpiuzxNu5VLQ54B72p41BhA_ugjHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607237988868-2806onhm7jis5rmc37hvpvfhinvtrool.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
